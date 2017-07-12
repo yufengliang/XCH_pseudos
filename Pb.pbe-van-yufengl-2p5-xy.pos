@@ -1,0 +1,7 @@
+  position
+     6   1             ! nwfc1,  nwfc2
+   0 0 1 1 2 2         ! lwfc1(1:nwfc1)
+   1                   ! lwfc2(1:nwfc2)
+            2         ! nonzero elements (i,j,ixyz,cR,cI,lv,mv,lc,mc,operator)
+   12  2  2   -0.6497172173112631E-02   0.0000000000000000E+00   2   2   1   1  y
+   17  2  2    0.7498441264033318E-02   0.0000000000000000E+00   2   2   1   1  y
